@@ -302,7 +302,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **AmirHossein Osooli**
-- Student ID: 811497046
 - Project: Computational Fluid Dynamics - Project 1
 
 ## 📚 References
