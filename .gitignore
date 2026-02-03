@@ -1,0 +1,53 @@
+# MATLAB temporary files
+*.asv
+*.m~
+
+# MATLAB autosave files
+*.autosave
+
+# MATLAB compiled files
+*.mex*
+*.p
+
+# Simulink autosave
+*.autosave
+*.slxc
+slprj/
+
+# MATLAB Code Analyzer
+*.mlx.autosave
+
+# MATLAB session data
+matlab_crash_dump.*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output directories (uncomment if you don't want to track these)
+# results/*.jpg
+# results/*.png
+# results/*.fig
+# results/*.mat
+
+# Temporary MATLAB files
+*.mat.tmp
+pcode/
+
+# MATLAB preferences
+*.prefs
+
+# Log files
+*.log
