@@ -101,7 +101,7 @@ burgers-equation-keller-box/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/burgers-equation-keller-box.git
+git clone https://github.com/AmirHosseinOsooli/Computational-Fluid-Dynamics-Spring-2022.git
 cd burgers-equation-keller-box
 ```
 
