@@ -302,7 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **AmirHossein Osooli**
-- Project: Computational Fluid Dynamics - Project 1
+- Computational Fluid Dynamics - Project 1
 
 ## 📚 References
 
