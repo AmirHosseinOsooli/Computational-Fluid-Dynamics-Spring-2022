@@ -256,23 +256,6 @@ u(:,n) = 0.2;  % Right boundary
 - **Memory**: Both solvers use cell arrays for flexibility, O(n·T) memory complexity
 - **Speed**: Thomas algorithm provides O(n) solution per time step
 
-## 🧪 Testing
-
-### Validation
-
-The solver has been validated against:
-- Analytical solutions for small viscosity
-- Published results from CFD literature
-- Grid refinement studies
-
-### Stability Tests
-
-Recommended parameter ranges have been tested for:
-- Various mesh sizes
-- Different time steps
-- Multiple expansion ratios
-- Different initial and boundary conditions
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
